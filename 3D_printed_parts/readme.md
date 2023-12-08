@@ -1,0 +1,1 @@
+Models printed with Geeetech Mizar M, see the settings on screenshots and g-code.
